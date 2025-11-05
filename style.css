@@ -1,0 +1,45 @@
+h1,h2 {
+	color: red;
+}
+
+h3 {
+	color: green;
+}
+
+h4 {
+	color: gold;
+}
+
+table,td,th {
+	border: 2px solid blue;
+}
+
+.text-center {
+	text-align: center;
+}
+.text-right {
+	text-align: right;
+}
+td {
+  text-align: center;
+}
+
+#round-img{
+	border-radius: 10px;
+}
+
+img {
+  	opacity: 0.5;
+} 
+img:hover {
+  	opacity: 1.0;
+}
+body {
+  background-color: lightblue;
+}
+body {
+  background-image: url("images/sabaton.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: scroll;
+}
